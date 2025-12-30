@@ -7,6 +7,9 @@ Once the robot is started, it operates entirely on its own. It uses onboard sens
 
 A demo video is included showing the robot completing the maze from start to finish.
 
+ffmpeg -i "IMG_9043 (1).mp4" -vf scale=480:-2 -an -b:v 400k -preset ultrafast output_under_10mb.mp4
+
+
 ## What the Robot Does
 - Follows a guidance line using line sensors
 - Detects intersections and junctions in the maze
