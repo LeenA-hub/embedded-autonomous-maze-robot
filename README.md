@@ -8,6 +8,10 @@ Once the robot is started, it operates entirely on its own. It uses onboard sens
 A demo video is included showing the robot completing the maze from start to finish.
 
 
+https://github.com/user-attachments/assets/853e756e-1ce0-4c2d-ac35-0d88a1e7809e
+
+
+
 
 ## What the Robot Does
 - Follows a guidance line using line sensors
